@@ -225,9 +225,9 @@ h1{
 {
   background-color:#007bb6
 }
-.social-icons a.dribbble:hover
+.social-icons a.github:hover
 {
-  background-color:#ea4c89
+  background-color:#000
 }
 @media (max-width:767px)
 {
