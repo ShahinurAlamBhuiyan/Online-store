@@ -1,1 +1,13 @@
 # responsive-website
+## How this site works...
+* this is just a normal responsive website. Not using 'media query'...
+## Technology...
++  JavaScript
++  CSS
++  HTML
+
+### Click below & enjoy mindblowing recitation...
+[CLICK ME](https://shahinuralambhuiyan.github.io/responsive-website/)
+
+## Let's take a look!
+![alt text](imges/siteSS.jpg)
