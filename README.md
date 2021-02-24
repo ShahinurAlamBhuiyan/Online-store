@@ -6,8 +6,8 @@
 +  CSS
 +  HTML
 
-### Click below & enjoy mindblowing recitation...
+### Click below & enjoy my site...
 [CLICK ME](https://shahinuralambhuiyan.github.io/responsive-website/)
 
 ## Let's take a look!
-![alt text](imges/siteSS.jpg)
+![alt text](images/siteSS.jpg)
